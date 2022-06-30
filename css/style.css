@@ -21,9 +21,6 @@ svg{
     height: 32px;
     display: block;
 }
-.figma{width: 88.56px;}
-.zcool{width: 114.63px;}
-.baidu{width: 107.28px;}
 /*tag配置-light*/
 .light .box{
     fill:#272727;
@@ -38,3 +35,7 @@ svg{
 .dark .name{
     fill:#272727;
 }
+/*单个tag宽度设置*/
+.figma{width: 88.56px;}
+.zcool{width: 114.63px;}
+.baidu{width: 107.28px;}
