@@ -12,3 +12,17 @@ ul{
     flex-direction: row;
     gap:10px;
 }
+svg{
+    height: 32px;
+}
+.figma{width: 88.56px;}
+.zcool{width: 114.63px;}
+.baidu{width: 107.28px;}
+span::before {
+    display:none !important;
+}
+.box {
+    /*fill:#f00;*/
+}
+.name path{
+}
